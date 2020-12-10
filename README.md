@@ -1,6 +1,21 @@
 # flutter_vision
 
-A new Flutter project.
+A Flutter project.
+
+#### Flutter App Screenshots
+
+<table>
+  <tr>
+    <td>Camera home page</td>
+     <td>Image Details dark mode</td>
+     <td>Image Details light mode</td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/cameraScreen.jpg" width=270></td>
+    <td><img src="screenshots/darkMode.jpg" width=270></td>
+    <td><img src="screenshots/lightMode.jpg" width=270></td>
+  </tr>
+ </table>
 
 ## Getting Started
 
@@ -14,3 +29,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Note
+This project Firebase ML Toolkit. <br />
+In order to use this app create a new Firebase project from your Firebase console. <br />
+Download the google-services.json file and place it in "projectDirectory/android/app/".
+
